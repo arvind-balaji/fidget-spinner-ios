@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>M58EM77GL8.net.tejastech.spidgetfinner</string>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>M58EM77GL8.net.tejastech.spidgetfinner</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.43 clang-900.0.22.8)"
+options: "e7b1cc835b5f2071a74c1309ee7fa210"
+build_time: [1497643040, 849576000]
+inputs:
+  "/Users/ArvindB/Development/fidget-spinner-ios/FidgetSpinner/GameScene.swift": [1495502774, 0]
+  "/Users/ArvindB/Development/fidget-spinner-ios/FidgetSpinner/GameViewController.swift": [1495251065, 0]
+  "/Users/ArvindB/Development/fidget-spinner-ios/FidgetSpinner/AppDelegate.swift": [1494793265, 0]

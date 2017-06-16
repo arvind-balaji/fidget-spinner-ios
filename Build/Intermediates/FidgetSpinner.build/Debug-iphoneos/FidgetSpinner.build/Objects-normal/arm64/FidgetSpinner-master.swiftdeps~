@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "65a6c3d31d437fe97d927ae2254ee39c"
+build_time: [548817974, 849512000]
+inputs:
+  "/Users/ArvindB/Development/FidgetSpinner/FidgetSpinner/GameScene.swift": [548817974, 0]
+  "/Users/ArvindB/Development/FidgetSpinner/FidgetSpinner/GameViewController.swift": [548566265, 0]
+  "/Users/ArvindB/Development/FidgetSpinner/FidgetSpinner/AppDelegate.swift": [548108465, 0]

@@ -1,0 +1,1 @@
+/Users/ArvindB/Development/FidgetSpinner/Build/Intermediates/ArchiveIntermediates/FidgetSpinner/InstallationBuildProductsLocation/Applications/FidgetSpinner.app

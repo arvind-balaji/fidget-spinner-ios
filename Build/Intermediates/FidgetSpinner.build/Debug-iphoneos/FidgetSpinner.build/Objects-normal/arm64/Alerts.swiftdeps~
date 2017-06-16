@@ -1,0 +1,573 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Alerts"
+provides-nominal:
+- "P13FidgetSpinner6Alerts"
+provides-member:
+- ["P13FidgetSpinner6Alerts", ""]
+- ["P13FidgetSpinner6Alerts", "buyAlert"]
+- ["P13FidgetSpinner6Alerts", "showAlertWithSettings"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Alerts"
+- !private "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- !private "CastingPrecedence"
+- !private "GameScene"
+- !private "NSURL"
+- "SKScene"
+- "String"
+- !private "StringLiteralType"
+- !private "UIAlertAction"
+- !private "UIAlertActionStyle"
+- !private "UIAlertController"
+- !private "UIAlertControllerStyle"
+- !private "UIApplication"
+- !private "UIApplicationOpenSettingsURLString"
+- !private "URL"
+- !private "Void"
+- !private "print"
+depends-member:
+- ["P13FidgetSpinner6Alerts", "Bool"]
+- !private ["P13FidgetSpinner6Alerts", "GameScene"]
+- !private ["P13FidgetSpinner6Alerts", "NSURL"]
+- ["P13FidgetSpinner6Alerts", "SKScene"]
+- ["P13FidgetSpinner6Alerts", "String"]
+- !private ["P13FidgetSpinner6Alerts", "UIAlertAction"]
+- !private ["P13FidgetSpinner6Alerts", "UIAlertActionStyle"]
+- !private ["P13FidgetSpinner6Alerts", "UIAlertController"]
+- !private ["P13FidgetSpinner6Alerts", "UIAlertControllerStyle"]
+- !private ["P13FidgetSpinner6Alerts", "UIApplication"]
+- !private ["P13FidgetSpinner6Alerts", "UIApplicationOpenSettingsURLString"]
+- !private ["P13FidgetSpinner6Alerts", "URL"]
+- !private ["P13FidgetSpinner6Alerts", "Void"]
+- ["P13FidgetSpinner6Alerts", "buyAlert"]
+- !private ["P13FidgetSpinner6Alerts", "init"]
+- !private ["P13FidgetSpinner6Alerts", "makePurchase"]
+- !private ["P13FidgetSpinner6Alerts", "print"]
+- ["P13FidgetSpinner6Alerts", "showAlertWithSettings"]
+- !private ["P13FidgetSpinner6Alerts", "view"]
+- !private ["Ps9AnyObject", "GameScene"]
+- !private ["Ps9AnyObject", "NSURL"]
+- !private ["Ps9AnyObject", "UIAlertAction"]
+- !private ["Ps9AnyObject", "UIAlertActionStyle"]
+- !private ["Ps9AnyObject", "UIAlertController"]
+- !private ["Ps9AnyObject", "UIAlertControllerStyle"]
+- !private ["Ps9AnyObject", "UIApplication"]
+- !private ["Ps9AnyObject", "UIApplicationOpenSettingsURLString"]
+- !private ["Ps9AnyObject", "addAction"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "makePurchase"]
+- !private ["Ps9AnyObject", "openURL"]
+- !private ["Ps9AnyObject", "present"]
+- !private ["Ps9AnyObject", "print"]
+- !private ["Ps9AnyObject", "rootViewController"]
+- !private ["Ps9AnyObject", "shared"]
+- !private ["Ps9AnyObject", "view"]
+- !private ["Ps9AnyObject", "window"]
+- !private ["PSo15CALayerDelegate", "rootViewController"]
+- !private ["PSo15CALayerDelegate", "window"]
+- !private ["Ps7CVarArg", "GameScene"]
+- !private ["Ps7CVarArg", "NSURL"]
+- !private ["Ps7CVarArg", "UIAlertAction"]
+- !private ["Ps7CVarArg", "UIAlertActionStyle"]
+- !private ["Ps7CVarArg", "UIAlertController"]
+- !private ["Ps7CVarArg", "UIAlertControllerStyle"]
+- !private ["Ps7CVarArg", "UIApplication"]
+- !private ["Ps7CVarArg", "UIApplicationOpenSettingsURLString"]
+- !private ["Ps7CVarArg", "addAction"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "makePurchase"]
+- !private ["Ps7CVarArg", "openURL"]
+- !private ["Ps7CVarArg", "present"]
+- !private ["Ps7CVarArg", "print"]
+- !private ["Ps7CVarArg", "rootViewController"]
+- !private ["Ps7CVarArg", "shared"]
+- !private ["Ps7CVarArg", "view"]
+- !private ["Ps7CVarArg", "window"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "GameScene"]
+- !private ["Ps28CustomDebugStringConvertible", "NSURL"]
+- !private ["Ps28CustomDebugStringConvertible", "UIAlertAction"]
+- !private ["Ps28CustomDebugStringConvertible", "UIAlertActionStyle"]
+- !private ["Ps28CustomDebugStringConvertible", "UIAlertController"]
+- !private ["Ps28CustomDebugStringConvertible", "UIAlertControllerStyle"]
+- !private ["Ps28CustomDebugStringConvertible", "UIApplication"]
+- !private ["Ps28CustomDebugStringConvertible", "UIApplicationOpenSettingsURLString"]
+- !private ["Ps28CustomDebugStringConvertible", "addAction"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "makePurchase"]
+- !private ["Ps28CustomDebugStringConvertible", "openURL"]
+- !private ["Ps28CustomDebugStringConvertible", "present"]
+- !private ["Ps28CustomDebugStringConvertible", "print"]
+- !private ["Ps28CustomDebugStringConvertible", "rootViewController"]
+- !private ["Ps28CustomDebugStringConvertible", "shared"]
+- !private ["Ps28CustomDebugStringConvertible", "view"]
+- !private ["Ps28CustomDebugStringConvertible", "window"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "GameScene"]
+- !private ["Ps23CustomStringConvertible", "NSURL"]
+- !private ["Ps23CustomStringConvertible", "UIAlertAction"]
+- !private ["Ps23CustomStringConvertible", "UIAlertActionStyle"]
+- !private ["Ps23CustomStringConvertible", "UIAlertController"]
+- !private ["Ps23CustomStringConvertible", "UIAlertControllerStyle"]
+- !private ["Ps23CustomStringConvertible", "UIApplication"]
+- !private ["Ps23CustomStringConvertible", "UIApplicationOpenSettingsURLString"]
+- !private ["Ps23CustomStringConvertible", "addAction"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "makePurchase"]
+- !private ["Ps23CustomStringConvertible", "openURL"]
+- !private ["Ps23CustomStringConvertible", "present"]
+- !private ["Ps23CustomStringConvertible", "print"]
+- !private ["Ps23CustomStringConvertible", "rootViewController"]
+- !private ["Ps23CustomStringConvertible", "shared"]
+- !private ["Ps23CustomStringConvertible", "view"]
+- !private ["Ps23CustomStringConvertible", "window"]
+- !private ["Ps9Equatable", "GameScene"]
+- !private ["Ps9Equatable", "NSURL"]
+- !private ["Ps9Equatable", "UIAlertAction"]
+- !private ["Ps9Equatable", "UIAlertActionStyle"]
+- !private ["Ps9Equatable", "UIAlertController"]
+- !private ["Ps9Equatable", "UIAlertControllerStyle"]
+- !private ["Ps9Equatable", "UIApplication"]
+- !private ["Ps9Equatable", "UIApplicationOpenSettingsURLString"]
+- !private ["Ps9Equatable", "addAction"]
+- !private ["Ps9Equatable", "alert"]
+- !private ["Ps9Equatable", "cancel"]
+- !private ["Ps9Equatable", "default"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "makePurchase"]
+- !private ["Ps9Equatable", "openURL"]
+- !private ["Ps9Equatable", "present"]
+- !private ["Ps9Equatable", "print"]
+- !private ["Ps9Equatable", "rootViewController"]
+- !private ["Ps9Equatable", "shared"]
+- !private ["Ps9Equatable", "view"]
+- !private ["Ps9Equatable", "window"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["PSo19GKSceneRootNodeType", "GameScene"]
+- !private ["PSo19GKSceneRootNodeType", "NSURL"]
+- !private ["PSo19GKSceneRootNodeType", "UIAlertAction"]
+- !private ["PSo19GKSceneRootNodeType", "UIAlertActionStyle"]
+- !private ["PSo19GKSceneRootNodeType", "UIAlertController"]
+- !private ["PSo19GKSceneRootNodeType", "UIAlertControllerStyle"]
+- !private ["PSo19GKSceneRootNodeType", "UIApplication"]
+- !private ["PSo19GKSceneRootNodeType", "UIApplicationOpenSettingsURLString"]
+- !private ["PSo19GKSceneRootNodeType", "init"]
+- !private ["PSo19GKSceneRootNodeType", "makePurchase"]
+- !private ["PSo19GKSceneRootNodeType", "print"]
+- !private ["PSo19GKSceneRootNodeType", "view"]
+- !private ["C13FidgetSpinner9GameScene", "init"]
+- !private ["C13FidgetSpinner9GameScene", "makePurchase"]
+- !private ["Ps8Hashable", "GameScene"]
+- !private ["Ps8Hashable", "NSURL"]
+- !private ["Ps8Hashable", "UIAlertAction"]
+- !private ["Ps8Hashable", "UIAlertActionStyle"]
+- !private ["Ps8Hashable", "UIAlertController"]
+- !private ["Ps8Hashable", "UIAlertControllerStyle"]
+- !private ["Ps8Hashable", "UIApplication"]
+- !private ["Ps8Hashable", "UIApplicationOpenSettingsURLString"]
+- !private ["Ps8Hashable", "addAction"]
+- !private ["Ps8Hashable", "alert"]
+- !private ["Ps8Hashable", "cancel"]
+- !private ["Ps8Hashable", "default"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "makePurchase"]
+- !private ["Ps8Hashable", "openURL"]
+- !private ["Ps8Hashable", "present"]
+- !private ["Ps8Hashable", "print"]
+- !private ["Ps8Hashable", "rootViewController"]
+- !private ["Ps8Hashable", "shared"]
+- !private ["Ps8Hashable", "view"]
+- !private ["Ps8Hashable", "window"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["PSo8NSCoding", "GameScene"]
+- !private ["PSo8NSCoding", "NSURL"]
+- !private ["PSo8NSCoding", "UIAlertAction"]
+- !private ["PSo8NSCoding", "UIAlertActionStyle"]
+- !private ["PSo8NSCoding", "UIAlertController"]
+- !private ["PSo8NSCoding", "UIAlertControllerStyle"]
+- !private ["PSo8NSCoding", "UIApplication"]
+- !private ["PSo8NSCoding", "UIApplicationOpenSettingsURLString"]
+- !private ["PSo8NSCoding", "addAction"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "makePurchase"]
+- !private ["PSo8NSCoding", "present"]
+- !private ["PSo8NSCoding", "print"]
+- !private ["PSo8NSCoding", "rootViewController"]
+- !private ["PSo8NSCoding", "view"]
+- !private ["PSo8NSCoding", "window"]
+- !private ["PSo9NSCopying", "GameScene"]
+- !private ["PSo9NSCopying", "NSURL"]
+- !private ["PSo9NSCopying", "UIAlertAction"]
+- !private ["PSo9NSCopying", "UIAlertActionStyle"]
+- !private ["PSo9NSCopying", "UIAlertController"]
+- !private ["PSo9NSCopying", "UIAlertControllerStyle"]
+- !private ["PSo9NSCopying", "UIApplication"]
+- !private ["PSo9NSCopying", "UIApplicationOpenSettingsURLString"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "makePurchase"]
+- !private ["PSo9NSCopying", "print"]
+- !private ["PSo9NSCopying", "view"]
+- !private ["PSo26NSExtensionRequestHandling", "addAction"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "present"]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "Bool"]
+- !private ["CSo8NSObject", "GameScene"]
+- !private ["CSo8NSObject", "NSURL"]
+- ["CSo8NSObject", "String"]
+- !private ["CSo8NSObject", "UIAlertAction"]
+- !private ["CSo8NSObject", "UIAlertActionStyle"]
+- !private ["CSo8NSObject", "UIAlertController"]
+- !private ["CSo8NSObject", "UIAlertControllerStyle"]
+- !private ["CSo8NSObject", "UIApplication"]
+- !private ["CSo8NSObject", "UIApplicationOpenSettingsURLString"]
+- !private ["CSo8NSObject", "URL"]
+- !private ["CSo8NSObject", "Void"]
+- !private ["CSo8NSObject", "addAction"]
+- !private ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "makePurchase"]
+- !private ["CSo8NSObject", "openURL"]
+- !private ["CSo8NSObject", "present"]
+- !private ["CSo8NSObject", "print"]
+- !private ["CSo8NSObject", "rootViewController"]
+- !private ["CSo8NSObject", "shared"]
+- !private ["CSo8NSObject", "view"]
+- !private ["CSo8NSObject", "window"]
+- !private ["PSo16NSObjectProtocol", "GameScene"]
+- !private ["PSo16NSObjectProtocol", "NSURL"]
+- !private ["PSo16NSObjectProtocol", "UIAlertAction"]
+- !private ["PSo16NSObjectProtocol", "UIAlertActionStyle"]
+- !private ["PSo16NSObjectProtocol", "UIAlertController"]
+- !private ["PSo16NSObjectProtocol", "UIAlertControllerStyle"]
+- !private ["PSo16NSObjectProtocol", "UIApplication"]
+- !private ["PSo16NSObjectProtocol", "UIApplicationOpenSettingsURLString"]
+- !private ["PSo16NSObjectProtocol", "addAction"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "makePurchase"]
+- !private ["PSo16NSObjectProtocol", "openURL"]
+- !private ["PSo16NSObjectProtocol", "present"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- !private ["PSo16NSObjectProtocol", "rootViewController"]
+- !private ["PSo16NSObjectProtocol", "shared"]
+- !private ["PSo16NSObjectProtocol", "view"]
+- !private ["PSo16NSObjectProtocol", "window"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- !private ["CSo5NSURL", "init"]
+- !private ["Ps16RawRepresentable", "alert"]
+- !private ["Ps16RawRepresentable", "cancel"]
+- !private ["Ps16RawRepresentable", "default"]
+- ["CSo12SKEffectNode", "Bool"]
+- !private ["CSo12SKEffectNode", "GameScene"]
+- !private ["CSo12SKEffectNode", "NSURL"]
+- ["CSo12SKEffectNode", "String"]
+- !private ["CSo12SKEffectNode", "UIAlertAction"]
+- !private ["CSo12SKEffectNode", "UIAlertActionStyle"]
+- !private ["CSo12SKEffectNode", "UIAlertController"]
+- !private ["CSo12SKEffectNode", "UIAlertControllerStyle"]
+- !private ["CSo12SKEffectNode", "UIApplication"]
+- !private ["CSo12SKEffectNode", "UIApplicationOpenSettingsURLString"]
+- !private ["CSo12SKEffectNode", "URL"]
+- !private ["CSo12SKEffectNode", "Void"]
+- !private ["CSo12SKEffectNode", "init"]
+- !private ["CSo12SKEffectNode", "makePurchase"]
+- !private ["CSo12SKEffectNode", "print"]
+- !private ["CSo12SKEffectNode", "view"]
+- ["CSo6SKNode", "Bool"]
+- !private ["CSo6SKNode", "GameScene"]
+- !private ["CSo6SKNode", "NSURL"]
+- ["CSo6SKNode", "String"]
+- !private ["CSo6SKNode", "UIAlertAction"]
+- !private ["CSo6SKNode", "UIAlertActionStyle"]
+- !private ["CSo6SKNode", "UIAlertController"]
+- !private ["CSo6SKNode", "UIAlertControllerStyle"]
+- !private ["CSo6SKNode", "UIApplication"]
+- !private ["CSo6SKNode", "UIApplicationOpenSettingsURLString"]
+- !private ["CSo6SKNode", "URL"]
+- !private ["CSo6SKNode", "Void"]
+- !private ["CSo6SKNode", "init"]
+- !private ["CSo6SKNode", "makePurchase"]
+- !private ["CSo6SKNode", "print"]
+- !private ["CSo6SKNode", "view"]
+- !private ["PSo28SKPaymentTransactionObserver", "init"]
+- !private ["PSo28SKPaymentTransactionObserver", "makePurchase"]
+- !private ["PSo25SKProductsRequestDelegate", "init"]
+- !private ["PSo25SKProductsRequestDelegate", "makePurchase"]
+- !private ["PSo17SKRequestDelegate", "init"]
+- !private ["PSo17SKRequestDelegate", "makePurchase"]
+- ["CSo7SKScene", "Bool"]
+- !private ["CSo7SKScene", "GameScene"]
+- !private ["CSo7SKScene", "NSURL"]
+- ["CSo7SKScene", "String"]
+- !private ["CSo7SKScene", "UIAlertAction"]
+- !private ["CSo7SKScene", "UIAlertActionStyle"]
+- !private ["CSo7SKScene", "UIAlertController"]
+- !private ["CSo7SKScene", "UIAlertControllerStyle"]
+- !private ["CSo7SKScene", "UIApplication"]
+- !private ["CSo7SKScene", "UIApplicationOpenSettingsURLString"]
+- !private ["CSo7SKScene", "URL"]
+- !private ["CSo7SKScene", "Void"]
+- !private ["CSo7SKScene", "init"]
+- !private ["CSo7SKScene", "makePurchase"]
+- !private ["CSo7SKScene", "print"]
+- !private ["CSo7SKScene", "view"]
+- !private ["CSo6SKView", "window"]
+- !private ["PSo10SKWarpable", "GameScene"]
+- !private ["PSo10SKWarpable", "NSURL"]
+- !private ["PSo10SKWarpable", "UIAlertAction"]
+- !private ["PSo10SKWarpable", "UIAlertActionStyle"]
+- !private ["PSo10SKWarpable", "UIAlertController"]
+- !private ["PSo10SKWarpable", "UIAlertControllerStyle"]
+- !private ["PSo10SKWarpable", "UIApplication"]
+- !private ["PSo10SKWarpable", "UIApplicationOpenSettingsURLString"]
+- !private ["PSo10SKWarpable", "init"]
+- !private ["PSo10SKWarpable", "makePurchase"]
+- !private ["PSo10SKWarpable", "print"]
+- !private ["PSo10SKWarpable", "view"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "rootViewController"]
+- !private ["PSo29UIAccessibilityIdentification", "window"]
+- !private ["CSo13UIAlertAction", "init"]
+- !private ["OSC18UIAlertActionStyle", "cancel"]
+- !private ["OSC18UIAlertActionStyle", "default"]
+- !private ["CSo17UIAlertController", "addAction"]
+- !private ["CSo17UIAlertController", "init"]
+- !private ["OSC22UIAlertControllerStyle", "alert"]
+- !private ["PSo12UIAppearance", "rootViewController"]
+- !private ["PSo12UIAppearance", "window"]
+- !private ["PSo21UIAppearanceContainer", "addAction"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "present"]
+- !private ["PSo21UIAppearanceContainer", "rootViewController"]
+- !private ["PSo21UIAppearanceContainer", "window"]
+- !private ["CSo13UIApplication", "openURL"]
+- !private ["CSo13UIApplication", "shared"]
+- !private ["PSo18UIContentContainer", "addAction"]
+- !private ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "present"]
+- !private ["PSo17UICoordinateSpace", "rootViewController"]
+- !private ["PSo17UICoordinateSpace", "window"]
+- !private ["PSo13UIDynamicItem", "rootViewController"]
+- !private ["PSo13UIDynamicItem", "window"]
+- !private ["PSo18UIFocusEnvironment", "GameScene"]
+- !private ["PSo18UIFocusEnvironment", "NSURL"]
+- !private ["PSo18UIFocusEnvironment", "UIAlertAction"]
+- !private ["PSo18UIFocusEnvironment", "UIAlertActionStyle"]
+- !private ["PSo18UIFocusEnvironment", "UIAlertController"]
+- !private ["PSo18UIFocusEnvironment", "UIAlertControllerStyle"]
+- !private ["PSo18UIFocusEnvironment", "UIApplication"]
+- !private ["PSo18UIFocusEnvironment", "UIApplicationOpenSettingsURLString"]
+- !private ["PSo18UIFocusEnvironment", "addAction"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "makePurchase"]
+- !private ["PSo18UIFocusEnvironment", "present"]
+- !private ["PSo18UIFocusEnvironment", "print"]
+- !private ["PSo18UIFocusEnvironment", "rootViewController"]
+- !private ["PSo18UIFocusEnvironment", "view"]
+- !private ["PSo18UIFocusEnvironment", "window"]
+- !private ["PSo11UIFocusItem", "GameScene"]
+- !private ["PSo11UIFocusItem", "NSURL"]
+- !private ["PSo11UIFocusItem", "UIAlertAction"]
+- !private ["PSo11UIFocusItem", "UIAlertActionStyle"]
+- !private ["PSo11UIFocusItem", "UIAlertController"]
+- !private ["PSo11UIFocusItem", "UIAlertControllerStyle"]
+- !private ["PSo11UIFocusItem", "UIApplication"]
+- !private ["PSo11UIFocusItem", "UIApplicationOpenSettingsURLString"]
+- !private ["PSo11UIFocusItem", "init"]
+- !private ["PSo11UIFocusItem", "makePurchase"]
+- !private ["PSo11UIFocusItem", "print"]
+- !private ["PSo11UIFocusItem", "rootViewController"]
+- !private ["PSo11UIFocusItem", "view"]
+- !private ["PSo11UIFocusItem", "window"]
+- ["CSo11UIResponder", "Bool"]
+- !private ["CSo11UIResponder", "GameScene"]
+- !private ["CSo11UIResponder", "NSURL"]
+- ["CSo11UIResponder", "String"]
+- !private ["CSo11UIResponder", "UIAlertAction"]
+- !private ["CSo11UIResponder", "UIAlertActionStyle"]
+- !private ["CSo11UIResponder", "UIAlertController"]
+- !private ["CSo11UIResponder", "UIAlertControllerStyle"]
+- !private ["CSo11UIResponder", "UIApplication"]
+- !private ["CSo11UIResponder", "UIApplicationOpenSettingsURLString"]
+- !private ["CSo11UIResponder", "URL"]
+- !private ["CSo11UIResponder", "Void"]
+- !private ["CSo11UIResponder", "addAction"]
+- !private ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "makePurchase"]
+- !private ["CSo11UIResponder", "openURL"]
+- !private ["CSo11UIResponder", "present"]
+- !private ["CSo11UIResponder", "print"]
+- !private ["CSo11UIResponder", "rootViewController"]
+- !private ["CSo11UIResponder", "shared"]
+- !private ["CSo11UIResponder", "view"]
+- !private ["CSo11UIResponder", "window"]
+- !private ["PSo30UIResponderStandardEditActions", "GameScene"]
+- !private ["PSo30UIResponderStandardEditActions", "NSURL"]
+- !private ["PSo30UIResponderStandardEditActions", "UIAlertAction"]
+- !private ["PSo30UIResponderStandardEditActions", "UIAlertActionStyle"]
+- !private ["PSo30UIResponderStandardEditActions", "UIAlertController"]
+- !private ["PSo30UIResponderStandardEditActions", "UIAlertControllerStyle"]
+- !private ["PSo30UIResponderStandardEditActions", "UIApplication"]
+- !private ["PSo30UIResponderStandardEditActions", "UIApplicationOpenSettingsURLString"]
+- !private ["PSo30UIResponderStandardEditActions", "addAction"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "makePurchase"]
+- !private ["PSo30UIResponderStandardEditActions", "openURL"]
+- !private ["PSo30UIResponderStandardEditActions", "present"]
+- !private ["PSo30UIResponderStandardEditActions", "print"]
+- !private ["PSo30UIResponderStandardEditActions", "rootViewController"]
+- !private ["PSo30UIResponderStandardEditActions", "shared"]
+- !private ["PSo30UIResponderStandardEditActions", "view"]
+- !private ["PSo30UIResponderStandardEditActions", "window"]
+- !private ["PSo16UIStateRestoring", "addAction"]
+- !private ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "present"]
+- !private ["PSo18UITraitEnvironment", "addAction"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "present"]
+- !private ["PSo18UITraitEnvironment", "rootViewController"]
+- !private ["PSo18UITraitEnvironment", "window"]
+- !private ["CSo6UIView", "rootViewController"]
+- !private ["CSo6UIView", "window"]
+- !private ["CSo16UIViewController", "addAction"]
+- !private ["CSo16UIViewController", "init"]
+- !private ["CSo16UIViewController", "present"]
+- !private ["CSo8UIWindow", "rootViewController"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "rootViewController"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "window"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "GameScene"]
+- !private ["Ps9_Hashable", "NSURL"]
+- !private ["Ps9_Hashable", "UIAlertAction"]
+- !private ["Ps9_Hashable", "UIAlertActionStyle"]
+- !private ["Ps9_Hashable", "UIAlertController"]
+- !private ["Ps9_Hashable", "UIAlertControllerStyle"]
+- !private ["Ps9_Hashable", "UIApplication"]
+- !private ["Ps9_Hashable", "UIApplicationOpenSettingsURLString"]
+- !private ["Ps9_Hashable", "addAction"]
+- !private ["Ps9_Hashable", "alert"]
+- !private ["Ps9_Hashable", "cancel"]
+- !private ["Ps9_Hashable", "default"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "makePurchase"]
+- !private ["Ps9_Hashable", "openURL"]
+- !private ["Ps9_Hashable", "present"]
+- !private ["Ps9_Hashable", "print"]
+- !private ["Ps9_Hashable", "rootViewController"]
+- !private ["Ps9_Hashable", "shared"]
+- !private ["Ps9_Hashable", "view"]
+- !private ["Ps9_Hashable", "window"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "P13FidgetSpinner6Alerts"
+- !private "Ps9AnyObject"
+- !private "PSo15CALayerDelegate"
+- !private "Ps7CVarArg"
+- !private "Ps10Comparable"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "PSo19GKSceneRootNodeType"
+- !private "C13FidgetSpinner9GameScene"
+- !private "Ps8Hashable"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo26NSExtensionRequestHandling"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- !private "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "CSo5NSURL"
+- !private "Ps16RawRepresentable"
+- "CSo12SKEffectNode"
+- "CSo6SKNode"
+- !private "PSo28SKPaymentTransactionObserver"
+- !private "PSo25SKProductsRequestDelegate"
+- !private "PSo17SKRequestDelegate"
+- "CSo7SKScene"
+- !private "CSo6SKView"
+- !private "PSo10SKWarpable"
+- !private "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "CSo13UIAlertAction"
+- !private "OSC18UIAlertActionStyle"
+- !private "CSo17UIAlertController"
+- !private "OSC22UIAlertControllerStyle"
+- !private "PSo12UIAppearance"
+- !private "PSo21UIAppearanceContainer"
+- !private "CSo13UIApplication"
+- !private "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- !private "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- "CSo11UIResponder"
+- !private "PSo30UIResponderStandardEditActions"
+- !private "PSo16UIStateRestoring"
+- !private "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- !private "CSo16UIViewController"
+- !private "CSo8UIWindow"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- !private "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/GLKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/StoreKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SpriteKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/GameplayKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AudioToolbox.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/GLKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SpriteKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/GameplayKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "2c9e8f19881b7c7422e25c6817e30db4"
